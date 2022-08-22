@@ -2,7 +2,11 @@
 <Document>
   <Engineering version="V17" />
   <DocumentInfo>
+<<<<<<< HEAD
+    <Created>2022-08-15T14:14:17.6838124Z</Created>
+=======
     <Created>2022-08-22T06:41:48.0351713Z</Created>
+>>>>>>> Branch_1
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -213,7 +217,11 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
+<<<<<<< HEAD
+        <Component Name="Output4" />
+=======
         <Component Name="Output3" />
+>>>>>>> Branch_1
       </Symbol>
     </Access>
     <Part Name="Contact" UId="23" />
@@ -269,12 +277,20 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
+<<<<<<< HEAD
+        <Component Name="Sw11" />
+=======
         <Component Name="Sw2" />
+>>>>>>> Branch_1
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
+<<<<<<< HEAD
+        <Component Name="Output11" />
+=======
         <Component Name="Output4" />
+>>>>>>> Branch_1
       </Symbol>
     </Access>
     <Part Name="Contact" UId="23" />
